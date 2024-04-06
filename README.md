@@ -1,2 +1,2 @@
-# simple-cli-calculator
-My first project titled "simple command-line-interface Calculator"
+# hello-world
+Hello world this is my first code.
